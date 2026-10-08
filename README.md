@@ -41,10 +41,10 @@ Detail-oriented Data Analyst with over 3 years of cumulative experience organizi
 ### 3. Telegram Community Behavior & Engagement Trends Analysis
 *A practical data analytics project built to clean, process, and analyze large-scale social media message data to uncover how online communities interact.*
 
-* **The Problem:** High-speed online chat groups generate massive amounts of unstructured text daily, making it impossible for community leads to track user activity manually or catch engagement drops before participation falls apart.
-* **The Findings:** Parsing a massive dataset of over 250,000 real message logs using Python proved that sharp, sudden changes in daily message volume and conversation velocity serve as reliable early indicators right before community participation drops.
-* **Solution Deployed:** Developed an end-to-end Python data pipeline utilizing Pandas to clean text string sequences, resolve formatting errors, filter out blank fields, and automatically summarize raw logs into clean daily activity tables.
-* **The Impact:** Created an early-warning dashboard pipeline that tracks shifting emotional trends, filtering out fraudulent keywords to protect user safety while isolating popular high-traction phrase trends to help managers boost platform growth.
+* **The Problem:** High-speed online chat groups move too fast and generate too much messy text data daily. This makes it impossible for community leads to track user activity manually, catch safety risks, or figure out what topics people are actually interested in. High-speed online chat groups generate massive amounts of unstructured text daily, making it impossible for community leads to track user activity manually or catch engagement drops before participation falls apart.
+* **The Findings:** By using Python to clean a dataset of over 250,000 real message logs, I successfully isolated the top 12 most active contributors to see who held the most influence in the group. The data also proved that community activity peaks heavily on Wednesdays (66,259 messages) and drops to its absolute lowest on Sundays (9,657 messages).
+* **Solution Deployed:** I built a data pipeline in a Python Jupyter Notebook using Pandas to organize messy text strings and dates, and used NetworkX to track how users interact and reply to each other across the group.
+* **The Impact:** This model provides a clear tracking system for two main goals. For user safety, it flags high-risk words related to fraud so people know if a platform is safe to enter. For business owners, it tracks popular keyword trends and peak activity times to help them use marketing intelligence to grow their platform.
 * 🔗 [View Raw Code & Architecture Schema](https://github.com/python_tg_comm_behavior_insights_trends_of_250K-messages)
 
 ---
