@@ -12,9 +12,14 @@ Detail-oriented Data Analyst with over 3 years of cumulative experience organizi
 
 ---
 
-## Technical Skills
-* **Languages & Core Tools:** Python, SQL, Microsoft Excel (Advanced), Power BI, Jupyter Notebook, VS Code
-* **Data Methodologies:** Ingestion Pipelines, Advanced Power Query, Star Schema Relational Modeling, DAX Formula Scripting, Data Quality Assurance (DQA), Exploratory Data Analysis (EDA), Text Data Parsing, Data Storytelling
+### Technical Skills
+
+| Category | Technologies & Core Frameworks |
+| :--- | :--- |
+| **Languages** | ![Python](https://shields.io) ![SQL](https://shields.io) |
+| **BI & Analytics** | ![Power Bi](https://shields.io) ![Excel](https://shields.io) |
+| **Data Pipelines** | `Advanced Power Query` `Star Schema Modeling` `ETL Ingestion Pipelines` |
+
 
 ---
 
