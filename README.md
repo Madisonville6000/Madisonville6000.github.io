@@ -25,7 +25,7 @@ Detail-oriented Data Analyst with over 3 years of cumulative experience organizi
 
 * **The Problem:** Disconnected and delayed multi-facility public health records make it incredibly difficult for national teams to identify disease trends quickly, leaving response metrics slow and reactive.
 * **The Findings:** Processing 250 incoming data signals across 8 distinct syndromic pathways successfully isolated normal data noise from real anomalies, capturing a high-severity regional outbreak spike that breached historical baseline thresholds.
-* **Solution Deployed:** Engineered automated data transformation pipelines using Advanced Power Query to ingest multi-source facility streams cleanly, structuring them into a stable Star Schema database architecture to stop relationship cross-filtering lag.
+* **Solution Deployed:** Used Advanced Power Query and Power BI to parse unstructured text, filter key fields (symptom, region and specific keywords), and built an integrated data model.
 * **The Impact:** Slashed the system's operational reporting response lag, driving down the average clinical severity index from a 1.49 baseline to an optimized 0.89 through early, data-driven intervention pathways.
 * 🔗 [View Raw Code & Architecture Schema](https://github.com/Syndromic-Surveillance-Multi-Facility-Engine)
 
