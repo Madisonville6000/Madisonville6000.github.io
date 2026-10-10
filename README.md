@@ -43,7 +43,7 @@ Detail-oriented Data Analyst with over 3 years of cumulative experience organizi
 
 * **The Problem:** Fast-moving online chat groups generate vast amounts of unstructured text, preventing manual tracking of activity, engagement drops, or security risks.
 * **The Findings:** Analyzed over 250,000 message logs via Python to isolate top influencers, revealing activity peaks on Wednesdays (66,259 messages) and lows on Sundays (9,657 messages), with a moderate safety risk score of 0.583.
-* **Solution Deployed:** I built a data pipeline in a Python Jupyter Notebook using Pandas to organize messy text strings and dates, and used NetworkX to track how users interact and reply to each other across the group.
+* **Solution Deployed:** I built a Python script using Pandas and ijson to process raw chat archives, converting messy strings into clean data for frequency tracking, peak time discovery, and risk analysis workflows.
 * **The Impact:** This model provides a clear tracking system for two main goals. For user safety, it flags high-risk words related to fraud so people know if a platform is safe to enter. For business owners, it tracks popular keyword trends and peak activity times to help them use marketing intelligence to grow their platform.
 * 🔗 [View Raw Code & Architecture Schema](https://github.com/python_tg_comm_behavior_insights_trends_of_250K-messages)
 
