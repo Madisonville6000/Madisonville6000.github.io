@@ -26,7 +26,7 @@ Detail-oriented Data Analyst with over 3 years of cumulative experience organizi
 * **The Problem:** Disconnected and delayed multi-facility public health records make it incredibly difficult for national teams to identify disease trends quickly, leaving response metrics slow and reactive.
 * **The Findings:** Processing 250 incoming data signals across 8 distinct syndromic pathways successfully isolated normal data noise from real anomalies, capturing a high-severity regional outbreak spike that breached historical baseline thresholds.
 * **Solution Deployed:** Engineered automated data transformation pipelines using Advanced Power Query to ingest multi-source facility streams cleanly, structuring them into a stable Star Schema database architecture to stop relationship cross-filtering lag.
-* **The Impact:** Slashed the system's operational reporting response lag from a 1.49 baseline down to an optimized 0.89, providing leadership with a fast, evidence-based dashboard roadmap for resource tracking.
+* **The Impact:** Slashed the system's operational reporting response lag, driving down the average clinical severity index from a 1.49 baseline to an optimized 0.89 through early, data-driven intervention pathways.
 * 🔗 [View Raw Code & Architecture Schema](https://github.com/Syndromic-Surveillance-Multi-Facility-Engine)
 
 ### 2. Maternal Healthcare Indicator & Patient Cohort Dashboard
@@ -41,8 +41,8 @@ Detail-oriented Data Analyst with over 3 years of cumulative experience organizi
 ### 3. Telegram Community Behavior & Engagement Trends Analysis
 *A practical data analytics project built to clean, process, and analyze large-scale social media message data to uncover how online communities interact.*
 
-* **The Problem:** High-speed online chat groups move too fast and generate too much messy text data daily. This makes it impossible for community leads to track user activity manually, catch safety risks, or figure out what topics people are actually interested in. High-speed online chat groups generate massive amounts of unstructured text daily, making it impossible for community leads to track user activity manually or catch engagement drops before participation falls apart.
-* **The Findings:** By using Python to clean a dataset of over 250,000 real message logs, I successfully isolated the top 12 most active contributors to see who held the most influence in the group. The data also proved that community activity peaks heavily on Wednesdays (66,259 messages) and drops to its absolute lowest on Sundays (9,657 messages). the average risk score is 0.583 which suggesrs it is a moderate risk platform.
+* **The Problem:** Fast-moving online chat groups generate vast amounts of unstructured text, preventing manual tracking of activity, engagement drops, or security risks.
+* **The Findings:** Analyzed over 250,000 message logs via Python to isolate top influencers, revealing activity peaks on Wednesdays (66,259 messages) and lows on Sundays (9,657 messages), with a moderate safety risk score of 0.583.
 * **Solution Deployed:** I built a data pipeline in a Python Jupyter Notebook using Pandas to organize messy text strings and dates, and used NetworkX to track how users interact and reply to each other across the group.
 * **The Impact:** This model provides a clear tracking system for two main goals. For user safety, it flags high-risk words related to fraud so people know if a platform is safe to enter. For business owners, it tracks popular keyword trends and peak activity times to help them use marketing intelligence to grow their platform.
 * 🔗 [View Raw Code & Architecture Schema](https://github.com/python_tg_comm_behavior_insights_trends_of_250K-messages)
