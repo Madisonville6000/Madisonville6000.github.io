@@ -14,10 +14,9 @@ Detail-oriented Data Analyst with over 3 years of cumulative experience organizi
 
 ### Technical Skills
 
-| **Languages** | ![Python](https://shields.io) ![SQL](https://shields.io) |
-| **BI & Analytics** | ![Power Bi](https://shields.io) ![Excel](https://shields.io) |
-| **Data Pipelines** | `Advanced Power Query` `Star Schema Modeling` `ETL Ingestion Pipelines` |
-
+- **Languages:** `Python` `SQL`
+- **BI & Analytics:** `Power BI` `Microsoft Excel`
+- **Data Pipelines:** `Advanced Power Query` `Star Schema Modeling` `ETL Ingestion Pipelines`
 
 ---
 
