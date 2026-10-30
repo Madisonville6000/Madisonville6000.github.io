@@ -8,7 +8,7 @@ Abuja, Nigeria | unwanaumana2@gmail.com
 ---
 
 ## Professional Summary
-Detail-oriented Data Analyst with over 3 years of cumulative experience organizing, cleaning, and visualizing complex datasets. Skilled in building relational data models (Star Schema) and interactive dashboards that transform raw administrative logs into clear reporting insights. Combining a scientific background in Microbiology with advanced technical training in Power BI, Excel, and Python to isolate tracking errors, reduce data latency, and support data-driven decision-making.
+Data Analyst with a practical background in entry-level healthcare, pharmacy, and customer relations roles. Experienced in handling daily data entry, cleaning messy operational records, and organizing tracking sheets. Combines a degree in Microbiology with strong Power BI and Python skills to help teams fix reporting delays and make simple, evidence-based decisions.
 
 ---
 
@@ -28,7 +28,7 @@ Detail-oriented Data Analyst with over 3 years of cumulative experience organizi
 * **The Problem:** Disconnected and delayed multi-facility public health records make it incredibly difficult for national teams to identify disease trends quickly, leaving response metrics slow and reactive.
 * **The Findings:** Processing 250 incoming data signals across 8 distinct syndromic pathways successfully isolated normal data noise from real anomalies, capturing a high-severity regional outbreak spike that breached historical baseline thresholds.
 * **Solution Deployed:** Used Advanced Power Query and Power BI to parse unstructured text, filter key fields (symptom, region and specific keywords), and built an integrated data model.
-* **The Impact:** Slashed the system's operational reporting response lag, driving down the average clinical severity index from a 1.49 baseline to an optimized 0.89 through early, data-driven intervention pathways.
+* **The Impact:** Slashed the system's operational reporting response lag, delivered predictive modeling to help teams target a future reduction in regional clinical severity scores from the 1.49 baseline down to a forecasted 0.89 scenario target.
 * 🔗 [View Raw Code & Architecture Schema](https://github.com/Syndromic-Surveillance-Multi-Facility-Engine)
 
 ### 2. Maternal Healthcare Indicator & Patient Cohort Dashboard
@@ -36,8 +36,8 @@ Detail-oriented Data Analyst with over 3 years of cumulative experience organizi
 
 * **The Problem:** Maternal psychological distress factors frequently go unnoticed due to unorganized data capture channels, preventing healthcare administrative teams from deploying specialized screening toolkits to vulnerable groups proactively.
 * **The Findings:** Auditing and cleaning a high-integrity clinical dataset of 1,502 respondents established an average baseline distress score of 5.03, revealing a statistically significant risk concentration peaking specifically within the 35–40 age demographic.
-* **Solution Deployed:** Processed the multi-variable data rows using Advanced Power Query to handle missing sequences and eliminate duplicates, building a clean data model in Power BI with custom calculated measures to segment patient risk cohorts dynamically.
-* **The Impact:** Replaced manual administrative logging backlogs with an automated diagnostic canvas that isolates high-risk age demographics with 100% accuracy, allowing care teams to route screening tools directly where they are required most.
+* **Solution Deployed:** Built an interactive Power BI dashboard featuring dynamic age-group tracking filters and custom metrics to automatically categorize and flag vulnerable patients.
+* **The Impact:** Replaced slow, manual chart reviews with a clear visual system, allowing clinical teams to instantly identify high-risk individuals and speed up care delivery.
 * 🔗 [View Raw Code & Architecture Schema](https://github.com/Maternal-Healthcare-Cohort-Analytics)
 
 ### 3. Telegram Community Behavior & Engagement Trends Analysis
@@ -64,11 +64,11 @@ Detail-oriented Data Analyst with over 3 years of cumulative experience organizi
 
 ### Customer Service Representative | Amela Pharmacies Ltd
 *Abuja, Nigeria* | *Nov 2022 – May 2023*
-* Maintained strict data entry accuracy within retail inventory and billing systems, resolving records discrepancies to safeguard ledger validation profiles and customer accounts documentation.
+* Maintained strict data entry accuracy within retail inventory and billing systems, resolving records discrepancies and fixed spreadsheet mismatches to maintain clean transaction files.
 
 ### Graduate Intern | Institute of Human Virology Nigeria (IHVN)
 *Abuja, Nigeria* | *Aug 2021 – Jul 2022*
-* Supervised the management, error isolation, and cleaning of complex multi-facility laboratory data frameworks directly within the Laboratory Information Management System (LIMS) to safeguard data integrity for clinical review.
+* Cleaned, verified, and entered patient records from multiple healthcare facilities into the Laboratory Information Management System (LIMS).
 
 ---
 
